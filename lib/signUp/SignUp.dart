@@ -12,6 +12,7 @@ class _SignupState extends State<Signup> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Text("hi"),
+      appBar: AppBar(),
     );
   }
 }
