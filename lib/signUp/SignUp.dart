@@ -12,7 +12,7 @@ class _SignupState extends State<Signup> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Colors.blueAccent,
-      body: Text("hello"),
+      body: Text("hello my frinds"),
       appBar: AppBar(
         backgroundColor: Colors.cyan,
       ),
