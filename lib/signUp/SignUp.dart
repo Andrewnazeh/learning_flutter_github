@@ -13,7 +13,9 @@ class _SignupState extends State<Signup> {
     return Scaffold(
       backgroundColor: Colors.blueAccent,
       body: Text("hi"),
-      appBar: AppBar(),
+      appBar: AppBar(
+        backgroundColor: Colors.black,
+      ),
     );
   }
 }
