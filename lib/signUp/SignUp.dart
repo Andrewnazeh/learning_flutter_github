@@ -15,6 +15,7 @@ class _SignupState extends State<Signup> {
       body: Text("hi"),
       appBar: AppBar(
         backgroundColor: Colors.black,
+        centerTitle: true,
       ),
     );
   }
